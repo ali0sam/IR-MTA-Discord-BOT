@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "1.6.10",
+  "dependencies": {
+    "color-thief-node": "^1.0.3",
+    "discord.js": "^12.2.0",
+    "ent": "^2.2.0",
+    "fstorm": "latest",
+    "gamedig": "^2.0.24",
+    "google-it": "^1.6.1",
+    "insert-line": "^1.1.0",
+    "jimp": "latest",
+    "libsodium-wrappers": "latest",
+    "opusscript": "latest",
+    "request": "^2.88.2",
+    "xmldom": "^0.4.0",
+    "xpath": "0.0.32",
+    "ytdl-core": "latest"
+  },
+  "is-music-bot": true
+}
